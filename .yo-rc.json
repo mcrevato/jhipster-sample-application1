@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ITAssetMC",
+    "packageName": "io.github.jhipster.itasset",
+    "packageFolder": "io/github/jhipster/itasset",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "ZDJmMGViOGQ3Y2E3NGQyNDEwZGNhMjQ4YmYwNDA0ZTNkOWJkZWQwMWU4YWU2YjkzYTRiNTUzYzU2MTU5NWMwNzc4MDVlZTczYTg2NTY4YWJiOTU5OTcwNzQ5MTZkNDA4MzMxOWFmNTk4ODcyM2NiYTc4NDRlZTI3M2YxNzI3NWU=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mcrevato",
+  "repository-name": "jhipster-sample-application1"
+}
